@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "test": "jest",
     "start": "node index.js"
-  },
+  }, 
   "repository": "https://github.com/achreffaidi/DevSecOps.git",
   "author": "V7Bupu2Jjl22hAKGJBttw8NPETberD <Achraf.Feydi@partner.bmwgroup.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
   }
 }
