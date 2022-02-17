@@ -1,0 +1,14 @@
+{
+  "name": "DevSecOps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/achreffaidi/DevSecOps.git",
+  "author": "V7Bupu2Jjl22hAKGJBttw8NPETberD <Achraf.Feydi@partner.bmwgroup.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
